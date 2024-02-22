@@ -1,6 +1,6 @@
 # input-data-vue.js
 
-This GitHub project enables users to fill out an input field, add the entered data by pressing the Enter key, and delete the added data by pressing the Backspace 
+This GitHub project enables users to fill out an input field, add the entered data by pressing the Enter key, and delete the added data by pressing the Backspace, It is developed using Vue.js, Css and Html.
 
 
 <br>
